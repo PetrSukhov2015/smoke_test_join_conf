@@ -1,0 +1,1 @@
+java -jar selenium-server-standalone-3.0.0-beta2.jar -role node -hub http://192.168.125.117:4444/grid/register -Dwebdriver.chrome.driver=chromedriver.exe -browser browserName=chrome,platform=WINDOWS,name=1  
